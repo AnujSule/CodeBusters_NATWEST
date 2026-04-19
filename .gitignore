@@ -1,0 +1,60 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+.pytest_cache/
+.mypy_cache/
+
+# Virtual environments
+venv/
+.venv/
+env/
+test_venv/
+
+# Environment files
+.env
+.env.local
+.env.production
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build
+frontend/dist/
+*.log
+
+# Docker
+docker-compose.override.yml
+
+# Data
+*.csv
+!demo_data/*.csv
+*.db
+backend/.env
+datadialogue.db
+
+# MinIO data
+minio_data/
+
+# Alembic
+alembic/versions/__pycache__/

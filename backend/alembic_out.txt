@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "c:\NATWEST\datadialogue\backend\alembic_runner.py", line 2, in <module>
+    from alembic.config import main
+ModuleNotFoundError: No module named 'alembic.config'

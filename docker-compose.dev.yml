@@ -1,0 +1,16 @@
+version: '3.9'
+
+services:
+  backend:
+    environment:
+      - APP_DEBUG=true
+      - APP_ENV=development
+    command: uvicorn app.main:app --host 0.0.0.0 --port 8000 --reload --log-level debug
+
+  celery_worker:
+    command: celery -A app.tasks.processing.celery_app worker --loglevel=debug --concurrency=1
+
+  frontend:
+    environment:
+      - NODE_ENV=development
+    command: npm run dev -- --host 0.0.0.0

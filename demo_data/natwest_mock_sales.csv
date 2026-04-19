@@ -1,0 +1,177 @@
+date,region,product,channel,revenue,transactions,new_customers,churned_customers,ad_spend,complaints
+2024-01-01,North,Current Account,Branch,125000,4200,89,12,8000,23
+2024-01-01,South,Current Account,Branch,98000,3100,67,19,9500,41
+2024-01-01,East,Savings Account,Online,210000,1800,134,8,12000,11
+2024-01-01,West,Mortgage,Branch,450000,320,28,3,15000,7
+2024-01-01,North,Credit Card,Online,87000,5600,112,34,6000,18
+2024-01-01,South,Savings Account,Online,175000,1500,98,15,11000,29
+2024-01-01,East,Current Account,Branch,115000,3800,82,10,7500,16
+2024-01-01,West,Credit Card,Online,92000,5200,105,28,5500,14
+2024-01-01,North,Mortgage,Branch,480000,350,31,2,16000,5
+2024-01-01,South,Credit Card,Online,78000,4800,95,38,5000,35
+2024-01-01,East,Mortgage,Branch,420000,290,25,4,14000,8
+2024-01-01,West,Savings Account,Online,195000,1650,115,11,10500,12
+2024-01-01,North,Savings Account,Online,185000,1700,120,9,10000,13
+2024-01-01,South,Mortgage,Branch,390000,280,22,5,13500,9
+2024-01-01,East,Credit Card,Online,95000,5400,108,25,6200,15
+2024-01-01,West,Current Account,Branch,108000,3500,75,14,8200,19
+2024-01-02,North,Current Account,Branch,127000,4250,91,11,8100,22
+2024-01-02,South,Current Account,Branch,99500,3150,68,18,9600,39
+2024-01-02,East,Savings Account,Online,213000,1830,137,7,12200,10
+2024-01-02,West,Mortgage,Branch,455000,325,29,3,15200,6
+2024-02-01,North,Current Account,Branch,129000,4300,93,13,8200,24
+2024-02-01,South,Current Account,Branch,76000,2400,45,32,9800,58
+2024-02-01,East,Savings Account,Online,216000,1860,140,7,12400,10
+2024-02-01,West,Mortgage,Branch,460000,330,30,3,15500,7
+2024-02-01,North,Credit Card,Online,89000,5700,115,33,6100,17
+2024-02-01,South,Savings Account,Online,136000,1170,68,28,11500,45
+2024-02-01,East,Current Account,Branch,118000,3900,85,9,7700,15
+2024-02-01,West,Credit Card,Online,94000,5300,108,27,5600,13
+2024-02-01,North,Mortgage,Branch,485000,355,32,2,16200,5
+2024-02-01,South,Credit Card,Online,61000,3750,66,52,5200,55
+2024-02-01,East,Mortgage,Branch,425000,295,26,4,14200,7
+2024-02-01,West,Savings Account,Online,198000,1680,118,10,10700,11
+2024-02-01,North,Savings Account,Online,188000,1730,123,8,10200,12
+2024-02-01,South,Mortgage,Branch,305000,218,15,9,14000,14
+2024-02-01,East,Credit Card,Online,98000,5500,111,24,6400,14
+2024-02-01,West,Current Account,Branch,110000,3550,77,13,8400,18
+2024-02-02,North,Current Account,Branch,130000,4320,94,12,8300,23
+2024-02-02,South,Current Account,Branch,77500,2450,46,31,9900,56
+2024-02-02,East,Savings Account,Online,218000,1880,142,6,12500,9
+2024-02-02,West,Mortgage,Branch,462000,332,30,3,15600,6
+2024-03-01,North,Current Account,Branch,132000,4400,96,11,8400,21
+2024-03-01,South,Current Account,Branch,95000,3000,64,20,9400,42
+2024-03-01,East,Savings Account,Online,222000,1920,145,7,12800,9
+2024-03-01,West,Mortgage,Branch,465000,335,31,3,15800,6
+2024-03-01,North,Credit Card,Online,91000,5800,118,32,6200,16
+2024-03-01,South,Savings Account,Online,170000,1460,95,16,11200,30
+2024-03-01,East,Current Account,Online,122000,4100,90,8,7900,13
+2024-03-01,West,Credit Card,Online,96000,5400,110,26,5700,12
+2024-03-01,North,Mortgage,Branch,490000,360,33,2,16400,4
+2024-03-01,South,Credit Card,Online,75000,4600,90,40,5100,36
+2024-03-01,East,Mortgage,Branch,430000,300,27,3,14500,7
+2024-03-01,West,Savings Account,Online,201000,1710,120,10,10900,11
+2024-03-01,North,Savings Account,Online,191000,1760,126,8,10400,11
+2024-03-01,South,Mortgage,Branch,385000,275,21,5,13600,10
+2024-03-01,East,Credit Card,Online,101000,5600,114,23,6600,13
+2024-03-01,West,Current Account,Online,112000,3650,80,12,8500,17
+2024-03-02,North,Current Account,Branch,133000,4420,97,11,8500,20
+2024-03-02,South,Current Account,Branch,96000,3050,65,19,9500,40
+2024-03-02,East,Savings Account,Online,224000,1940,147,6,12900,9
+2024-03-02,West,Mortgage,Branch,467000,337,31,2,15900,6
+2024-04-01,North,Current Account,Branch,135000,4500,99,10,8600,20
+2024-04-01,South,Current Account,Branch,100000,3200,69,17,9600,38
+2024-04-01,East,Savings Account,Online,228000,1980,150,6,13100,8
+2024-04-01,West,Mortgage,Branch,470000,340,32,3,16000,6
+2024-04-01,North,Credit Card,Online,93000,5900,120,31,6300,15
+2024-04-01,South,Savings Account,Online,178000,1530,100,14,11300,27
+2024-04-01,East,Current Account,Online,126000,4200,93,7,8100,12
+2024-04-01,West,Credit Card,Online,98000,5500,112,25,5800,11
+2024-04-01,North,Mortgage,Branch,495000,365,34,2,16600,4
+2024-04-01,South,Credit Card,Online,80000,4900,97,37,5200,33
+2024-04-01,East,Mortgage,Branch,435000,305,28,3,14700,6
+2024-04-01,West,Savings Account,Online,204000,1740,123,9,11100,10
+2024-04-01,North,Savings Account,Online,194000,1790,129,7,10600,10
+2024-04-01,South,Mortgage,Branch,395000,285,23,4,13800,8
+2024-04-01,East,Credit Card,Online,104000,5700,117,22,6800,12
+2024-04-01,West,Current Account,Online,115000,3750,83,11,8700,16
+2024-04-02,North,Current Account,Branch,136000,4520,100,10,8700,19
+2024-04-02,South,Current Account,Branch,101000,3220,70,17,9700,37
+2024-04-02,East,Savings Account,Online,230000,2000,152,6,13200,8
+2024-04-02,West,Mortgage,Branch,472000,342,33,2,16100,5
+2024-05-01,North,Current Account,Branch,138000,4600,102,9,8800,19
+2024-05-01,South,Current Account,Branch,103000,3300,72,16,9700,36
+2024-05-01,East,Savings Account,Online,234000,2040,155,6,13400,7
+2024-05-01,West,Mortgage,Branch,475000,345,33,2,16200,5
+2024-05-01,North,Credit Card,Online,95000,6000,123,30,6400,14
+2024-05-01,South,Savings Account,Online,182000,1560,103,13,11400,25
+2024-05-01,East,Current Account,Online,130000,4300,96,7,8300,11
+2024-05-01,West,Credit Card,Online,100000,5600,115,24,5900,10
+2024-05-01,North,Mortgage,Branch,500000,370,35,1,16800,3
+2024-05-01,South,Credit Card,Online,83000,5000,99,35,5300,31
+2024-05-01,East,Mortgage,Branch,440000,310,29,3,14900,6
+2024-05-01,West,Savings Account,Online,207000,1770,126,9,11300,9
+2024-05-01,North,Savings Account,Online,197000,1820,132,7,10800,9
+2024-05-01,South,Mortgage,Branch,400000,290,24,4,13900,8
+2024-05-01,East,Credit Card,Online,107000,5800,120,21,7000,11
+2024-05-01,West,Current Account,Online,118000,3850,86,10,8900,15
+2024-05-02,North,Current Account,Branch,139000,4620,103,9,8900,18
+2024-05-02,South,Current Account,Branch,104000,3320,73,16,9800,35
+2024-05-02,East,Savings Account,Online,236000,2060,157,5,13500,7
+2024-05-02,West,Mortgage,Branch,477000,347,34,2,16300,5
+2024-06-01,North,Current Account,Branch,141000,4700,105,8,9000,18
+2024-06-01,South,Current Account,Branch,106000,3400,75,15,9800,34
+2024-06-01,East,Savings Account,Online,240000,2100,160,5,13700,7
+2024-06-01,West,Mortgage,Branch,480000,350,34,2,16400,5
+2024-06-01,North,Credit Card,Online,97000,6100,126,29,6500,13
+2024-06-01,South,Savings Account,Online,186000,1600,106,12,11500,24
+2024-06-01,East,Current Account,Online,134000,4400,99,6,8500,10
+2024-06-01,West,Credit Card,Online,102000,5700,118,23,6000,9
+2024-06-01,North,Mortgage,Branch,505000,375,36,1,17000,3
+2024-06-01,South,Credit Card,Online,86000,5100,101,34,5400,29
+2024-06-01,East,Mortgage,Branch,445000,315,30,2,15100,5
+2024-06-01,West,Savings Account,Online,210000,1800,129,8,11500,9
+2024-06-01,North,Savings Account,Online,200000,1850,135,6,11000,9
+2024-06-01,South,Mortgage,Branch,405000,295,25,4,14000,7
+2024-06-01,East,Credit Card,Online,110000,5900,123,20,7200,10
+2024-06-01,West,Current Account,Online,121000,3950,89,9,9100,14
+2024-06-02,North,Current Account,Branch,142000,4720,106,8,9100,17
+2024-06-02,South,Current Account,Branch,107000,3420,76,15,9900,33
+2024-06-02,East,Savings Account,Online,242000,2120,162,5,13800,6
+2024-06-02,West,Mortgage,Branch,482000,352,35,2,16500,4
+2024-01-15,North,Current Account,Online,131000,4350,95,10,8500,20
+2024-01-15,South,Savings Account,Branch,165000,1400,88,18,10500,32
+2024-01-15,East,Credit Card,Branch,88000,5100,100,30,5800,17
+2024-01-15,West,Current Account,Online,105000,3400,72,15,8000,20
+2024-02-15,North,Savings Account,Branch,180000,1650,118,9,9800,14
+2024-02-15,South,Current Account,Online,72000,2300,42,35,10000,62
+2024-02-15,East,Mortgage,Online,428000,298,27,3,14400,7
+2024-02-15,West,Savings Account,Branch,190000,1620,112,12,10300,13
+2024-03-15,North,Credit Card,Branch,85000,5500,110,35,5900,19
+2024-03-15,South,Mortgage,Online,380000,270,20,6,13400,11
+2024-03-15,East,Current Account,Online,120000,4000,88,8,7800,14
+2024-03-15,West,Savings Account,Online,199000,1700,119,10,10800,11
+2024-04-15,North,Mortgage,Online,492000,362,33,2,16500,4
+2024-04-15,South,Credit Card,Branch,72000,4400,85,42,4900,38
+2024-04-15,East,Savings Account,Online,226000,1960,148,6,13000,8
+2024-04-15,West,Current Account,Online,113000,3700,81,12,8600,17
+2024-05-15,North,Current Account,Online,140000,4650,104,8,8950,18
+2024-05-15,South,Savings Account,Online,184000,1580,104,13,11450,25
+2024-05-15,East,Credit Card,Online,108000,5850,121,21,7100,11
+2024-05-15,West,Mortgage,Online,478000,348,34,2,16350,5
+2024-06-15,North,Savings Account,Online,202000,1870,137,6,11100,8
+2024-06-15,South,Current Account,Online,108000,3450,77,14,9950,32
+2024-06-15,East,Mortgage,Online,448000,318,31,2,15200,5
+2024-06-15,West,Credit Card,Online,104000,5750,119,22,6050,9
+2024-01-20,North,Mortgage,Online,475000,345,30,2,15800,5
+2024-01-20,South,Credit Card,Branch,71000,4500,88,40,4800,37
+2024-01-20,East,Current Account,Branch,112000,3750,80,11,7400,16
+2024-01-20,West,Savings Account,Online,192000,1640,113,11,10400,12
+2024-02-20,North,Current Account,Online,128000,4280,92,12,8250,23
+2024-02-20,South,Savings Account,Branch,130000,1120,62,30,11200,48
+2024-02-20,East,Credit Card,Online,96000,5450,109,25,6300,14
+2024-02-20,West,Mortgage,Branch,458000,328,29,3,15400,7
+2024-03-20,North,Savings Account,Online,189000,1745,124,8,10300,12
+2024-03-20,South,Current Account,Online,93000,2950,62,21,9350,43
+2024-03-20,East,Mortgage,Online,432000,302,28,3,14600,7
+2024-03-20,West,Credit Card,Online,97000,5450,111,26,5750,12
+2024-04-20,North,Credit Card,Online,94000,5950,121,31,6350,15
+2024-04-20,South,Savings Account,Branch,170000,1480,96,15,11100,28
+2024-04-20,East,Current Account,Online,128000,4250,94,7,8150,12
+2024-04-20,West,Mortgage,Online,473000,343,33,2,16050,5
+2024-05-20,North,Mortgage,Online,502000,372,36,1,16900,3
+2024-05-20,South,Credit Card,Online,84000,5050,100,35,5350,31
+2024-05-20,East,Savings Account,Online,238000,2080,158,5,13550,7
+2024-05-20,West,Current Account,Online,120000,3900,88,10,9000,14
+2024-06-20,North,Current Account,Online,143000,4740,107,7,9150,17
+2024-06-20,South,Mortgage,Online,408000,298,26,3,14100,7
+2024-06-20,East,Credit Card,Branch,105000,5700,118,22,6900,11
+2024-06-20,West,Savings Account,Branch,205000,1750,125,9,11200,10
+2024-02-10,South,Current Account,Branch,74000,2350,43,33,9850,60
+2024-02-10,South,Savings Account,Online,133000,1145,65,29,11350,47
+2024-02-10,South,Credit Card,Online,63000,3850,68,50,5250,53
+2024-02-10,South,Mortgage,Branch,310000,222,16,8,14050,13
+2024-02-25,South,Current Account,Online,75000,2380,44,34,9920,59
+2024-02-25,South,Savings Account,Branch,132000,1130,63,30,11280,46
+2024-02-25,South,Credit Card,Branch,60000,3700,65,51,5180,54
+2024-02-25,South,Mortgage,Online,308000,220,15,9,14020,14
