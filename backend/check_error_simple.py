@@ -4,7 +4,7 @@ import asyncio
 from sqlalchemy import create_engine, text
 
 # Use sync engine for simple check
-URL = "postgresql://neondb_owner:npg_9JcXeO6jAnbt@ep-snowy-frost-abhs3qci.eu-west-2.aws.neon.tech/neondb?sslmode=require"
+URL = "postgresql://YOUR_DB_URL"
 
 def check_error():
     engine = create_engine(URL)
